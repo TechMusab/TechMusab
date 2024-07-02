@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on open-source projects related to web development.
 
-📫 You can reach me via email at [your-email@example.com](mbulancers@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/musab-bin-ubaid-99802825b/).
+📫 You can reach me via email at [My Email](mbulancers@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/musab-bin-ubaid-99802825b/).
 
 😄 Pronouns: He/Him
 
