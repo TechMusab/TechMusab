@@ -15,8 +15,12 @@
 Let's build cool stuff together! 🚀
 # Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=TechMusab&theme=dark&hide_border=true)
-# Last Commit
-![GitHub last commit](https://img.shields.io/github/last-commit/TechMusab/Netflix-Frontend-Clone)
+## 📊 GitHub Stats
+
+![Musab's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechMusab&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechMusab&layout=compact&theme=radical)
+
 
 
 
