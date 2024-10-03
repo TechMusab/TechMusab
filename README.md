@@ -15,7 +15,7 @@
 Let's build cool stuff together! 🚀
 # Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=TechMusab&theme=dark&hide_border=true)
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 ![Musab's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechMusab&show_icons=true&theme=radical)
 
